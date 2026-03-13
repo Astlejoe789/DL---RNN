@@ -186,5 +186,6 @@ print(f'Actual Price: {actual_prices[-1]}')
 ### Predictions
 
 
+
 ## RESULT
 Thus, a Recurrent Neural Network (RNN) model for predicting stock prices using historical closing price data has been developed successfully
