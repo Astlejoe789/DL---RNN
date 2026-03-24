@@ -6,6 +6,7 @@ To develop a Recurrent Neural Network (RNN) model for predicting stock prices us
 ## Problem Statement and Dataset
 Recurrent Neural Network (RNN) model for predicting stock prices using historical closing price data.
 Google stock prices are given in trainset.csv and testset.csv files. The dataset is available in the GitHub repository.
+<img width="743" height="431" alt="image" src="https://github.com/user-attachments/assets/b1706673-9dff-442e-96f0-78c9e438c926" />
 
 ## DESIGN STEPS
 ### STEP 1: 
